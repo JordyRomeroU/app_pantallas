@@ -4,6 +4,7 @@ import 'package:pantallas/pages/prueba.dart';
 import 'package:pantallas/widgets/personal_form.dart';
 
 //actualizacion camara 
+//jordy romero
 
 void main() => runApp(const MyApp());
 
